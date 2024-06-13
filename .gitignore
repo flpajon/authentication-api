@@ -160,3 +160,8 @@ buildNumber.properties
 .classpath
 
 # End of https://www.toptal.com/developers/gitignore/api/maven,intellij,java
+.idea/**
+access-refresh-token-keys/access-token-private.key
+access-refresh-token-keys/access-token-public.key
+access-refresh-token-keys/refresh-token-private.key
+access-refresh-token-keys/refresh-token-public.key
